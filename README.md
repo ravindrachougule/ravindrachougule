@@ -8,6 +8,8 @@ I'm a seasoned developer with over 20 years of experience in Java, Spring, and f
 - **Tools**: Flyway, Git, Docker
 
 ## 🚀 Featured Projects
+- **[How the stars live their life.](https://www.kaggle.com/code/ravindramchougule/how-the-stars-live-their-life))** - A Python-notebook Using a simple data set and a plotting library we will dwell into how stars make their Journey..
+
 - **[Stock Price Predictor](#)** - A Python-based LSTM model to forecast stock prices using historical data.
 - **[Fraud Detection System](#)** - A machine learning classifier to identify suspicious financial transactions.
 - **[Java-Spring Financial API](#)** - A REST API integrating an AI model for real-time financial insights.
